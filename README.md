@@ -1,5 +1,5 @@
 > [!NOTE]
-> **THIS REPOSITORY IS NO LONGER MAINTAINED.**
+> **THIS REPOSITORY IS MAINTAINED BY THE COMMUNITY.**
 >
 > **Alternatives:**
 > - **[AIStor Free](https://min.io/download)** — Full-featured, standalone edition for community use (free license)
